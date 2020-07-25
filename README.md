@@ -1,1 +1,1 @@
-# Constraint-Satisfaction-Problem-ASP-Clingo-
+# Constraint-Satisfaction-Problem [ASP-Clingo]
